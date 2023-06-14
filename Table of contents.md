@@ -22,6 +22,6 @@ This will detail some important questions when exception handling and debugging 
 
 this will contain reading assignments before every lesson withing this course and a summary of what i learnt after taking the lesson.
 
-### **[Things I want to know more about]()** 
+### **[Things I want to know more about](https://github.com/AhMaD36789/Reading-Notes/blob/main/Things%20I%20want%20to%20know%20more%20about.md)** 
 
 In here is a list of topics that i saw fit for further research and investigation
