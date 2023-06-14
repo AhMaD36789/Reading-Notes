@@ -46,3 +46,14 @@ try is testing my hello world to check if anything wrong will happen
 
 now for the interesting part the catch. if something goes wrong the error will be caught a new variable named ex will be defined with a class of Exception and the error message will be printed
 
+## CATASTROPHIC FAILURES OF THE PAST
+
+### Ariane 5
+
+A data conversion from 64-bit floating-point value to 16-bit signed integer value to be stored in a variable representing horizontal bias caused a processor trap (operand error) because the floating-point value was too large to be represented by a 16-bit signed integer.
+
+### Therac-25
+
+Two software faults were to blame. One, when the operator incorrectly selected X-ray mode before quickly changing to electron mode, which allowed the electron beam to be set for X-ray mode without the X-ray target being in place. A second fault allowed the electron beam to activate during field-light mode, during which no beam scanner was active or target was in place.
+
+The high-current electron beam struck the patients with approximately 100 times the intended dose of radiation, and over a narrower area, delivering a potentially lethal dose of beta radiation.
