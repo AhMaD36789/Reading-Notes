@@ -14,6 +14,14 @@ Below is a list of topics covered in the Pre Work :
 
 This will contain a summary for A 17 lesson interactive book on How to handle working with SQL.
 
+2. **[Exception Handling](https://github.com/AhMaD36789/Reading-Notes/blob/main/Pre%20Work/Exception%20Handling.md)**
+
+This will detail some important questions when exception handling and debugging along with a summary of the usage of try catch
+
 ### **[Lesson Reading](https://github.com/AhMaD36789/Reading-Notes/tree/main/Lesson%20Reading)**
 
 this will contain reading assignments before every lesson withing this course and a summary of what i learnt after taking the lesson.
+
+### **[Things I want to know more about]()** 
+
+In here is a list of topics that i saw fit for further research and investigation
