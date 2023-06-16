@@ -22,7 +22,7 @@ This will detail some important questions when exception handling and debugging 
 
 This will have some guidelines about working in the terminal
 
-- **[The Growth Mindset]()**
+- **[The Growth Mindset](https://github.com/AhMaD36789/Reading-Notes/blob/main/Pre%20Work/The%20growth%20mindset.md)**
 
 What I learnt researching the growth mindset
 
