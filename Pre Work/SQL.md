@@ -8,9 +8,7 @@ SQL, or Structured Query Language, is a language designed to allow both technica
 
 A relational database represents a collection of related (two-dimensional) tables. Each of the tables are similar to an Excel spreadsheet, with a fixed number of named columns (the attributes or properties of the table) and any number of rows of data.
 
-## LESSON 1
-
-### SELECT statement
+## SELECT statement
 
 this is a query. A query is a statement which declares what data we are looking for , where to find it in the database, and optionally, how to transform it before it is returned.
 
@@ -20,9 +18,7 @@ this is a query. A query is a statement which declares what data we are looking 
 
 where x is the data im looking for and y is where to go look for it.
 
-## LESSON 2
-
-### QUERIES WITH CONSTRAINTS (Pt. 1)
+## QUERIES WITH CONSTRAINTS (Pt. 1)
 
 In order to filter certain results from being returned, we need to use a **WHERE** clause in the query. The clause is applied to each row of data by checking specific column values to determine whether it should be included in the results or not.
 
@@ -40,9 +36,7 @@ This will return all records that have value greater than y on their respective 
 |IN (…)|Number exists in a list|col_name IN (2, 4, 6)|
 |NOT IN (…)|Number does not exist in a list|col_name NOT IN (1, 3, 5)|
 
-## LESSON 3
-
-### QUERIES WITH CONSTRAINTS (Pt. 2)
+## QUERIES WITH CONSTRAINTS (Pt. 2)
 
 When writing WHERE clauses with columns containing text data, SQL supports a number of useful operators to do things like case-insensitive string comparison and wildcard pattern matching.
 
