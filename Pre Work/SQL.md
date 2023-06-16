@@ -415,4 +415,3 @@ RENAME TO new_table_name;
 ### Drop table statement
 
     DROP TABLE IF EXISTS mytable;
-
