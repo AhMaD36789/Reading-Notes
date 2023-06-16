@@ -18,7 +18,7 @@ This will contain a summary for A 17 lesson interactive book on How to handle wo
 
 This will detail some important questions when exception handling and debugging along with a summary of the usage of try catch
 
-- **[Terminal Practice]()**
+- **[Terminal Practice](https://github.com/AhMaD36789/Reading-Notes/blob/main/Pre%20Work/Practice%20in%20the%20terminal.md)**
 
 This will have some guidelines about working in the terminal
 
