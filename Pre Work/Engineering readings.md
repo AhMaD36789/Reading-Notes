@@ -1,12 +1,12 @@
 # Topics
 
-- ## [The 5 whys]()
+- ## [The 5 whys](https://github.com/AhMaD36789/Reading-Notes/edit/main/Pre%20Work/Engineering%20readings.md#the-5-whys-technique)
 
-- ## [How to think like a programmer]()
+- ## [How to think like a programmer](https://github.com/AhMaD36789/Reading-Notes/edit/main/Pre%20Work/Engineering%20readings.md#the-5-whys-technique)
 
-- ## [How to solve programming problems]()
+- ## [How to solve programming problems](https://github.com/AhMaD36789/Reading-Notes/edit/main/Pre%20Work/Engineering%20readings.md#the-5-whys-technique)
 
-- ## [Discussion Questions]()
+- ## [Discussion Questions](https://github.com/AhMaD36789/Reading-Notes/edit/main/Pre%20Work/Engineering%20readings.md#the-5-whys-technique)
 
 ### **The 5 whys technique**
 
