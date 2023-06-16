@@ -1,12 +1,12 @@
 # Topics
 
-- ## [The 5 whys]()
+- ## [The 5 whys](#the-5-whys-technique)
 
-- ## [How to think like a programmer]()
+- ## [How to think like a programmer](#how-to-think-like-a-programmer-1)
 
-- ## [How to solve programming problems]()
+- ## [How to solve programming problems](#how-to-solve-programming-problems-1)
 
-- ## [Discussion Questions]()
+- ## [Discussion Questions](#discussion-questions-1)
 
 ### **The 5 whys technique**
 
