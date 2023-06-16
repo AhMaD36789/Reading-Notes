@@ -52,7 +52,7 @@ Caveat: Don’t look for a solution to the big problem. Only look for solutions 
 
 5. Practice: Don’t expect to be great after just one week. If you want to be a good problem-solver, solve a lot of problems!
 
-Practice. Practice. Practice. It’ll only be a matter of time before you recognize that “this problem could easily be solved with <insert concept here>.”
+Practice. Practice. Practice. It’ll only be a matter of time before you recognize that “this problem could easily be solved with (input concept here).”
 
 ## How to solve programming problems
 

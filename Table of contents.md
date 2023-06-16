@@ -26,7 +26,7 @@ This will have some guidelines about working in the terminal
 
 What I learnt researching the growth mindset
 
-- **[Engineering reading]()**
+- **[Engineering reading](https://github.com/AhMaD36789/Reading-Notes/blob/main/Pre%20Work/Engineering%20readings.md)**
 
 ### **[Lesson Reading](https://github.com/AhMaD36789/Reading-Notes/tree/main/Lesson%20Reading)**
 
