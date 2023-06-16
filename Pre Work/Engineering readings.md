@@ -10,7 +10,7 @@
 
 ### **The 5 whys technique**
 
-this technique is used to identify the root of the issue and to prevent it from reoccurring 
+this technique is used to identify the root of the issue and to prevent it from reoccurring
 
 ### when do we use it
 
