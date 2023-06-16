@@ -26,6 +26,8 @@ This will have some guidelines about working in the terminal
 
 What I learnt researching the growth mindset
 
+- **[Engineering reading]()**
+
 ### **[Lesson Reading](https://github.com/AhMaD36789/Reading-Notes/tree/main/Lesson%20Reading)**
 
 this will contain reading assignments before every lesson withing this course and a summary of what i learnt after taking the lesson.
