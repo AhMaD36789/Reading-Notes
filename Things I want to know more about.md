@@ -7,3 +7,5 @@
 * [Rosalind](https://web.archive.org/web/20160607102654/http://rosalind.info/about/)
 
 * relationship management skills
+
+* refresh on working with data structures
