@@ -30,7 +30,7 @@ What I learnt researching the growth mindset
 
 Introduces methods upon which problem solving can be made easier and gives a good structure on how to approach a problem solving question in interviews
 
-- **[Data Structures and Algorithms]()**
+- **[Data Structures and Algorithms](https://github.com/AhMaD36789/Reading-Notes/blob/main/Pre%20Work/Data%20Structures%20and%20Algorithms.md)**
 
 A quick refresher on common data structures and how to work with algorithms
 
