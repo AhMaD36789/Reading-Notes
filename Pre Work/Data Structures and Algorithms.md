@@ -1,10 +1,10 @@
 # Topics
 
-1. Data Structures
+## Data Structures
 
-2. 8 Common Data Structures every Programmer must know
+## 8 Common Data Structures every Programmer must know
 
-3. Why you should learn Big-O and stop hacking your way through algorithms
+## Why you should learn Big-O and stop hacking your way through algorithms
 
 ## Data Structure
 
@@ -194,4 +194,9 @@ A Heap is a special case of a binary tree where the parent nodes are compared to
 - Used to implement priority queues as the priority values can be ordered according to the heap property where the heap can be implemented using an array.
 Queue functions can be implemented using heaps within O(log n) time.
 - Used to find the kᵗʰ smallest (or largest) value in a given array.
+
+### Big O
+
+
+
 
