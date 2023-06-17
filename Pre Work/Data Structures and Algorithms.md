@@ -197,6 +197,22 @@ Queue functions can be implemented using heaps within O(log n) time.
 
 ### Big O
 
+Both take the worst case.
 
+Time complexity
 
+how much time is required to run the function. base case is O(1) but when using a loopit becomes O(n) if the loop has a condition like (i=array.Length/2) the time complexity becomes O(n/2)
 
+Space complexity
+
+how much space is required to run the function. base case is O(1) but when using a loop to insert data it becomes O(n)
+
+### Discussion Questions
+
+What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
+
+depending on my requirements for the data structure, if i require fast inserting i use structures that have good data insertion times
+
+How can we ensure that we’ll avoid an infinite recursive call stack?
+
+by introducing a base case to stop the function once a certain criteria is met
