@@ -9,3 +9,5 @@
 * relationship management skills
 
 * refresh on working with data structures
+
+* research append that adds to an existing file
