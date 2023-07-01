@@ -42,7 +42,7 @@ the ability of a single function or method to operate on multiple types of data.
 
 two types of polymorphism in C# : Compile-time polymorphism is achieved through method overloading, where multiple methods can have the same name but different parameters. Run-time polymorphism is achieved through method overriding, where a derived class can override a method from its base class.
 
-*lookup List implementation in C#*
+### *lookup List implementation in C#*
 
 ## Abstraction
 
