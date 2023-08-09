@@ -3,8 +3,8 @@
 1. delete old DB that didnt implement identity
 1. delete migrations
 1. download Microsoft.ASPNetCore.Identity.EntityFramework
-1. add new class to models folder named ApplicationUser
-1. ApplicationUser inherits from IdentityUser class (containts base properties)
+1. add new class to models folder for users
+1. new users class called User inherits from IdentityUser class (containts base properties)
 1. change DBContext to inherit from IdentityDBContext< ApplicationUser> (configures and interacts with DB while implementing identity framework )
 1. in override for OnModelCreating add
 
@@ -20,12 +20,29 @@
 1. add new interface IUser and add new class IdentityUserService that implements the new interface and in program.cs addTransient for the new interface-class
 1. interface contains the following
 
-    public task<> Register (RegisterUser RegisterUser)
-1. Add new class to configure DTO to take some of the properties added by default in the pre created table (return to lecture 10:45:00 AM - 10:58:00 AM)
+        public task<> Register (User RegisterUser)
+1. Add new class to configure 2 DTOs UserDTO & RegisterUserDTO to take some of the properties added by default in the pre created table
+1. UserDTO contains
+
+        public class UserDTO
+        {
+        public string Username { get; set; }
+        public string password { get; set; }
+        public string Email { get; set; }
+        public string Phone { get; set; }
+        }
+1. RegisterUserDTO contains
+
+        public class RegisterUserDTO
+        {
+        public string ID { get; set; }
+        public string Username { get; set; }
+        }
+
 1. after implementing the service add new controller and inject the service in the controller
 1. inject in IdentityUserService
 
-        private UserManager< ApplicationUser> suerManager;
+        private UserManager< ApplicationUser> userManager;
         public IdentityUserService(UserManager< ApplicationUser> manager){
         userManager = manager;
         }
